@@ -1,0 +1,10 @@
+.env  
+*.stl  
+*.raw  
+__pycache__/  
+*.pyc  
+*.stl  
+*.raw  
+*.webp  
+*.jpg  
+*.png  
